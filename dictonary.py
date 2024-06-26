@@ -5,8 +5,6 @@ student={'Name':'Muhammad Ahmad Raza',"rollno":47,"age":22,"fathername":"arifali
 # print simple dictonary  data
 print(student)
 
-
-
 # print simple dictonary  name
 print(student["Name"])
 
